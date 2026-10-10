@@ -210,3 +210,13 @@ separately through validation and held-out testing.
 - Export the selected model for serving without a tracking server.
 - Add Docker packaging.
 - Add continuous integration.
+## Screenshots
+
+### Model comparison
+![MLflow model comparison](docs/images/mlflow-comparison.png)
+
+### Final test results
+![Final test results](docs/images/final-test-results.png)
+
+### API prediction
+![API prediction](docs/images/api-prediction.png)
